@@ -17,7 +17,7 @@ const CONFIG = {
 
   venue: "Trường ĐH Mở TP.HCM, cơ sở 1",
   address: "97 Võ Văn Tần, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam",
-  mapQuery: "97 Võ Văn Tần, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam",
+  mapQuery: "Trường Đại học Mở TP.HCM - Cơ sở 1",
 
   intro: "Mình thân mời bạn đến chung vui trong",
   closing: "Có bạn ở đó, ngày vui của mình sẽ trọn vẹn hơn.",
@@ -30,22 +30,22 @@ const CONFIG = {
   parkingIntro: "Ngày lễ bãi xe trong trường dễ quá tải, bạn có thể chọn một trong ba chỗ này.",
   parking: [
     {
-      name: "Trường ĐH Khoa học Tự nhiên",
-      address: "227 Nguyễn Văn Cừ, Quận 5",
+      name: "Trường ĐH Mở TP.HCM",
+      address: "97 Võ Văn Tần, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam",
       note: "Trong khuôn viên trường, tiện nhất nhưng ngày lễ rất đông. Nên đến sớm.",
-      mapQuery: "Trường Đại học Khoa học Tự nhiên, 227 Nguyễn Văn Cừ, Quận 5, TP.HCM",
+      mapQuery: "Trường Đại học Mở TP.HCM - Cơ sở 1",
     },
     {
-      name: "Trường ĐH Sư phạm TP.HCM",
-      address: "280 An Dương Vương, Quận 5",
-      note: "Hai trường thông nhau, đi bộ sang chỉ khoảng 3 phút.",
-      mapQuery: "Trường Đại học Sư phạm TP.HCM, 280 An Dương Vương, Quận 5, TP.HCM",
+      name: "Bãi xe công viên Tao Đàn",
+      address: "Số 55C, đường Nguyễn Thị Minh Khai, phường Bến Thành, quận 1, TP. Hồ Chí Minh",
+      note: "Bãi xe của công viên Tao Đàn, cách trường khoảng 300m đi bộ",
+      mapQuery: "Bãi gửi xe công viên Tao Đàn",
     },
     {
-      name: "Nowzone",
-      address: "235 Nguyễn Văn Cừ, Quận 1",
-      note: "Trung tâm thương mại gần trường, bãi xe tầng hầm, đi bộ khoảng 5 phút.",
-      mapQuery: "Nowzone Fashion Mall, 235 Nguyễn Văn Cừ, Quận 1, TP.HCM",
+      name: "Bãi xe Cung Văn hóa Lao động TP.HCM",
+      address: "55B Nguyễn Thị Minh Khai, Bến Thành, Hồ Chí Minh 700000, Việt Nam",
+      note: "Trung tâm văn hóa – thể thao gần trường, đi bộ khoảng 5 phút.",
+      mapQuery: "Cung Văn hóa Lao động TP.HCM",
     },
   ],
 };

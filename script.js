@@ -12,7 +12,7 @@ const CONFIG = {
   degreeEn: "Information Technology",
 
   date: "2026-11-14",                    // YYYY-MM-DD
-  time: "10:30",                           // "HH:MM" giờ Việt Nam, ví dụ "08:30". Để trống nếu chưa có.
+  time: "10h30 sáng",                          // chữ hiển thị nguyên văn, ví dụ "10h30 sáng". Để trống nếu chưa có.
   timePlaceholder: "giờ sẽ cập nhật sớm",
 
   venue: "Trường ĐH Mở TP.HCM, cơ sở 1",
